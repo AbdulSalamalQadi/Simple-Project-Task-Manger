@@ -12,3 +12,7 @@ void AddTask()
 {
     cout<<"Task added sucessfully."<<endl;
 }
+void EditTask()
+{
+     cout<<"Task edit sucessfully."<<endl;
+}

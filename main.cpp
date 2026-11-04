@@ -7,4 +7,5 @@ int main()
       cout << "=== Task Manger ===" << endl;
     ShowTasks();
     AddTask();
+    EditTask();
 }
